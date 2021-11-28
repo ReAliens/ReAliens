@@ -10,4 +10,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReAliens&show_icons=true&theme=radical&layout=compact)]
+[![Ahme's github stats](https://github-readme-stats.vercel.app/api?username=ReAliens&show_icons=true&theme=radical)](https://github.com/ReAliens/github-readme-stats)
