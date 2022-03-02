@@ -10,8 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
-
-https://camo.githubusercontent.com/71dd2c9c193607123c5e02caddacd1efb0e407b5e29958a5b1e92b953f7d1078/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d766e376e3234667a6b71267468656d653d6e6f72645f627269676874
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?ReAliens=vn7n24fzkq&theme=vue)
 
 
 
