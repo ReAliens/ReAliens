@@ -9,6 +9,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
+# your link goes here
+link = "https://github.com/knightlab-analyses/qurro-mackerel-analysis/blob/master/AnalysisOutput/qurro-plot.qzv"
+
+# note: this will break if a repo/organization or subfolder is named "blob" -- would be ideal to use a fancy regex
+# to be more precise here
+print(link.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/"))
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReAliens&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReAliens&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReAliens&theme=github)
 
