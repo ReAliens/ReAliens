@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
-<a href="https://www.linkedin.com/in/armali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/armali/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReAliens&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReAliens&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReAliens&theme=github)
