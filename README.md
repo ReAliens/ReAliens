@@ -9,6 +9,8 @@
 - ⚡ If it looks difficult, change your perspective
 
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 [![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ReAliens&show_icons=true&theme=radical)](https://github.com/ReAliens/github-readme-stats)
 
