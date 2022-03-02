@@ -2,7 +2,7 @@
 
 
 
-<img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif"/>
+<img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100%"/>
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
