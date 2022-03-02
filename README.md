@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
