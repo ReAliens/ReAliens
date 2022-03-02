@@ -1,7 +1,4 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-
 <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100%"/>
 
 - 🔭 I’m currently a full time student at Microverse Inc.
