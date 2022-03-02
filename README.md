@@ -1,6 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Alt Text](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+
+
+https://user-images.githubusercontent.com/51102661/156456588-9a8dcc0e-a578-4063-9c36-a78ea3a8e4e1.mp4
+
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
