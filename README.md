@@ -1,6 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100%"/>
 
+<div align="center">
+  <div class="code-badge freecodecamp"></div>
+  <div class="code-badge github"></div>
+  <div class="code-badge codeschool"></div>
+  <div class="code-badge codecademy"></div>
+  <div class="code-badge treehouse"></div>
+  <div class="code-badge codewars"></div>
+</div>
+
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
