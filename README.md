@@ -10,6 +10,9 @@
   <div class="code-badge codewars"></div>
 </div>
 
+codeBadges("Ahmed Reda").freecodecamp("Ahmed Reda").github("ReAliens").codeschool().codecademy().treehouse("ryancarson").codewars();
+
+
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
