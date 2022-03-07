@@ -33,6 +33,7 @@ codeBadges("Ahmed Reda").freecodecamp("Ahmed Reda").github("ReAliens").codeschoo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReAliens&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReAliens&theme=github)
+![Visitor Count](https://profile-counter.glitch.me/ReAliens/count.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReAliens&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
